@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "newnav",
-    "slug": "newnav",
+    "name": "newnav1",
+    "slug": "newnav1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
